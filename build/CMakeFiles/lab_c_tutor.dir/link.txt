@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -Wl,--dependency-file=CMakeFiles/lab_c_tutor.dir/link.d CMakeFiles/lab_c_tutor.dir/src/main.c.o -o lab_c_tutor  libproject_lib.a
