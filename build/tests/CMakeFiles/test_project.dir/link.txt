@@ -1,1 +1,0 @@
-/usr/bin/gcc -g -Wl,--dependency-file=CMakeFiles/test_project.dir/link.d CMakeFiles/test_project.dir/test_project.c.o -o test_project  ../libproject_lib.a
